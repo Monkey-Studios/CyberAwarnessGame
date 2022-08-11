@@ -1,0 +1,2 @@
+# CyberAwarnessGame
+ During my second year of Uni, throughout the entire year I was involved in the development of a game for a client. This client was the police force of my local council. Our client tasked us with creating a game that raised awareness for cyber threats to members of the police, and how to tackle these attacks efficiently. As the lead developer on this project it was my job to monitor the project and lead its development, directing the others involved in its development.
